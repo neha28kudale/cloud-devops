@@ -168,14 +168,6 @@ This project follows modern DevOps & Cloud principles:
 
 ⸻
 
-👤 Leadership
-
-Topic Lead: Aarushi Garg
-
-“DevOps leadership is about designing systems that empower teams.”
-
-⸻
-
 🙏 Special Thanks
 
 Special thanks to the Smartly Creators Program, enabling developers, engineers, and innovators to master cloud-native technologies and build reliable, automated, production-ready systems.
